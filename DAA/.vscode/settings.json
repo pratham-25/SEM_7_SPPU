@@ -3,6 +3,7 @@
         "string": "cpp",
         "any": "cpp",
         "optional": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "stdexcept": "cpp"
     }
 }
